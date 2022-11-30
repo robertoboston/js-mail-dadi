@@ -18,10 +18,10 @@ button.addEventListener('click', function(){
     }
     
     if(flag){
-        document.getElementById('mail-space').innerHTML= `${input_mail} La tua mail risulta valida`
+        document.getElementById('mail-space').innerHTML= `La tua mail risulta valida`
     }
     else{
-        document.getElementById('mail-space').innerHTML= `${input_mail} La tua mail risulta NON valida`
+        document.getElementById('mail-space').innerHTML= `La tua mail risulta NON valida`
     }
 
     
