@@ -19,6 +19,7 @@ button.addEventListener('click', function(){
     else{
         document.getElementById('mail-space').innerHTML= `${input_mail} La tua mail risulta NON valida`
     }
+
     
 })
 
