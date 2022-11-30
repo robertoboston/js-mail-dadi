@@ -1,4 +1,4 @@
-const mail_list=["roberto.bozzo@gmail.com","sergio@gmail.com","alessandro.gmail.com","alfredo@gmail.com","alfredo@tiscali.it"]
+const mail_list=["roberto.bozzo@gmail.com","sergio@gmail.com","alessandro@gmail.com","alfredo@gmail.com","alfredo@tiscali.it"]
 
 let user_mail=prompt("inserisci qui la tua mail")
 
